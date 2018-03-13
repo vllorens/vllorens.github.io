@@ -18,8 +18,8 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Biography Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet.</description>
+      <description>Biography I am a postdoctoral researcher at the VIB-KU Leuven Center for Microbiology, studying the functionality of the gut microbiota.
+During my PhD studies at the Centre for Genomic Regulation I focused my research on a single bacterium, Mycoplasma pneumoniae. I studied the different mechanisms that this bacterium uses to regulate transcription, from canonical transcription factors to alternative mechanisms such as small RNAs or riboswitches. I analyzed hundreds of datasets from different omics, mostly RNA-seq and ChIP-seq.</description>
     </item>
     
     <item>
@@ -55,15 +55,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/home/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/home/projects/</guid>
       <description></description>
     </item>
     

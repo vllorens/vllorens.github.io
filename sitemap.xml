@@ -5,16 +5,7 @@
     
     <url>
     
-      <loc>/post/creating-a-personal-website-with-r-blogdown/</loc>
-      <lastmod>2018-05-11T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication/review/</loc>
+      <loc>https://vllorens.github.io/publication/review/</loc>
       <lastmod>2017-10-31T00:00:00+00:00</lastmod>
     </url>
     
@@ -23,7 +14,7 @@
     
     <url>
     
-      <loc>/tags/academic/</loc>
+      <loc>https://vllorens.github.io/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -32,7 +23,7 @@
     
     <url>
     
-      <loc>/publication/</loc>
+      <loc>https://vllorens.github.io/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -41,7 +32,7 @@
     
     <url>
     
-      <loc>/post/</loc>
+      <loc>https://vllorens.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -50,7 +41,7 @@
     
     <url>
     
-      <loc>/publication/readthrough/</loc>
+      <loc>https://vllorens.github.io/publication/readthrough/</loc>
       <lastmod>2016-06-22T00:00:00+00:00</lastmod>
     </url>
     
@@ -59,7 +50,7 @@
     
     <url>
     
-      <loc>/publication/yinyang/</loc>
+      <loc>https://vllorens.github.io/publication/yinyang/</loc>
       <lastmod>2016-03-16T00:00:00+00:00</lastmod>
     </url>
     
@@ -68,7 +59,7 @@
     
     <url>
     
-      <loc>/publication/noncodings/</loc>
+      <loc>https://vllorens.github.io/publication/noncodings/</loc>
       <lastmod>2016-03-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -77,7 +68,7 @@
     
     <url>
     
-      <loc>/publication/strains/</loc>
+      <loc>https://vllorens.github.io/publication/strains/</loc>
       <lastmod>2015-09-03T00:00:00+00:00</lastmod>
     </url>
     
@@ -86,7 +77,7 @@
     
     <url>
     
-      <loc>/publication/promoters/</loc>
+      <loc>https://vllorens.github.io/publication/promoters/</loc>
       <lastmod>2015-03-16T00:00:00+00:00</lastmod>
     </url>
     
@@ -95,7 +86,7 @@
     
     <url>
     
-      <loc>/publication/transposons/</loc>
+      <loc>https://vllorens.github.io/publication/transposons/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -104,7 +95,7 @@
     
     <url>
     
-      <loc>/publication/chimeras/</loc>
+      <loc>https://vllorens.github.io/publication/chimeras/</loc>
       <lastmod>2014-12-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -113,7 +104,7 @@
     
     <url>
     
-      <loc>/publication/methylome/</loc>
+      <loc>https://vllorens.github.io/publication/methylome/</loc>
       <lastmod>2013-01-03T00:00:00+00:00</lastmod>
     </url>
     
@@ -122,7 +113,7 @@
     
     <url>
     
-      <loc>/publication_types/2/</loc>
+      <loc>https://vllorens.github.io/publication_types/2/</loc>
       <lastmod>2017-10-31T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -132,8 +123,7 @@
     
     <url>
     
-      <loc>/tags/blogdown/</loc>
-      <lastmod>2018-05-11T00:00:00+00:00</lastmod>
+      <loc>https://vllorens.github.io/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -142,47 +132,7 @@
     
     <url>
     
-      <loc>/categories/blogdown/</loc>
-      <lastmod>2018-05-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/categories/</loc>
-      <lastmod>2018-05-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/hugo/</loc>
-      <lastmod>2018-05-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/categories/hugo/</loc>
-      <lastmod>2018-05-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication_types/</loc>
+      <loc>https://vllorens.github.io/publication_types/</loc>
       <lastmod>2017-10-31T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -192,57 +142,7 @@
     
     <url>
     
-      <loc>/tags/r/</loc>
-      <lastmod>2018-05-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/categories/r/</loc>
-      <lastmod>2018-05-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/r-markdown/</loc>
-      <lastmod>2018-05-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/r-ladies/</loc>
-      <lastmod>2018-05-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/categories/r-ladies/</loc>
-      <lastmod>2018-05-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/</loc>
+      <loc>https://vllorens.github.io/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -252,28 +152,8 @@
     
     <url>
     
-      <loc>/</loc>
+      <loc>https://vllorens.github.io/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/website/</loc>
-      <lastmod>2018-05-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/categories/website/</loc>
-      <lastmod>2018-05-11T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

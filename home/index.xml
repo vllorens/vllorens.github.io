@@ -2,72 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Verónica Lloréns Rico</title>
-    <link>https://vllorens.github.io/home/</link>
+    <link>/home/</link>
     <description>Recent content in Homes on Verónica Lloréns Rico</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://vllorens.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://vllorens.github.io/home/about/</link>
+      <link>/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://vllorens.github.io/home/about/</guid>
+      <guid>/home/about/</guid>
       <description>About me: I am a postdoctoral researcher at the VIB-KU Leuven Center for Microbiology, currently studying the functionality of the gut microbiota.
 During my PhD studies I focused my research on a single bacterium, Mycoplasma pneumoniae. I studied the different mechanisms that this bacterium uses to regulate transcription, from canonical transcription factors to alternative mechanisms such as small RNAs or riboswitches. I analyzed hundreds of datasets from different omics, mostly RNA-seq and ChIP-seq.</description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>https://vllorens.github.io/home/publications/</link>
+      <link>/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://vllorens.github.io/home/publications/</guid>
+      <guid>/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Awards and Funding</title>
-      <link>https://vllorens.github.io/home/awards/</link>
+      <link>/home/awards/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://vllorens.github.io/home/awards/</guid>
-      <description>2017: FWO Postdoctoral Fellowship. 3 years postdoctoral fellowship.
- 2017: PhD extraordinary Award, Universitat Pompeu Fabra. Thesis title: &amp;ldquo;Integrative understanding of transcription in a minimal cell model&amp;rdquo;. Link to the press release.
- 2016: International Organization of Mycoplasmology Conference in Brisbane, Australia. Travel Award.
- 2011: La Caixa postgraduate fellowship. MSc in Spain fellowship.
- 2011: Bancaja-UPV award: Best undergraduate dissertation. Title: &amp;ldquo;Development of a gene prioritization method and its applications in hereditary disorders&amp;rdquo; (original in Spanish: &amp;ldquo;Desarrollo de un método de priorización de genes y aplicación en enfermedades hereditarias&amp;rdquo;)</description>
+      <guid>/home/awards/</guid>
+      <description>2018: Best Poster Award at the EMBO | EMBL Human Microbiome Conference. Poster title: A Mapping-based Human Metatranscriptomics Analysis Pipeline. Prize awarded by Molecular Systems Biology
+ 2018: Young Investigator Award from the Catalan Society of Biology (Premi al jove Investigador de la Societat Catalana de Biologia). Link to the press release.
+ 2017: FWO Postdoctoral Fellowship. 3 years postdoctoral fellowship.
+ 2017: PhD extraordinary Award, Universitat Pompeu Fabra. Thesis title: &amp;ldquo;Integrative understanding of transcription in a minimal cell model&amp;rdquo;.</description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>https://vllorens.github.io/home/posts/</link>
+      <link>/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://vllorens.github.io/home/posts/</guid>
+      <guid>/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tags</title>
-      <link>https://vllorens.github.io/home/tags/</link>
+      <link>/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://vllorens.github.io/home/tags/</guid>
+      <guid>/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://vllorens.github.io/home/contact/</link>
+      <link>/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://vllorens.github.io/home/contact/</guid>
+      <guid>/home/contact/</guid>
       <description></description>
     </item>
     

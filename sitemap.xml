@@ -5,7 +5,7 @@
     
     <url>
     
-      <loc>/post/creating-a-personal-website-with-r-blogdown/</loc>
+      <loc>/post_temporal/creating-a-personal-website-with-r-blogdown/</loc>
       <lastmod>2018-05-11T00:00:00+00:00</lastmod>
     </url>
     
@@ -173,6 +173,16 @@
     <url>
     
       <loc>/tags/hugo/</loc>
+      <lastmod>2018-05-11T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post_temporal/</loc>
       <lastmod>2018-05-11T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>

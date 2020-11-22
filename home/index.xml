@@ -2,71 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Verónica Lloréns Rico</title>
-    <link>/home/</link>
+    <link>https://vllorens.github.io/home/</link>
     <description>Recent content in Homes on Verónica Lloréns Rico</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vllorens.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/home/about/</link>
+      <link>https://vllorens.github.io/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/about/</guid>
+      <guid>https://vllorens.github.io/home/about/</guid>
       <description>About me: I am a postdoctoral researcher at the VIB-KU Leuven Center for Microbiology, currently studying the functionality of the gut microbiota.
 During my PhD studies I focused my research on a single bacterium, Mycoplasma pneumoniae. I studied the different mechanisms that this bacterium uses to regulate transcription, from canonical transcription factors to alternative mechanisms such as small RNAs or riboswitches. I analyzed hundreds of datasets from different omics, mostly RNA-seq and ChIP-seq.</description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      <link>https://vllorens.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/home/publications/</guid>
+      <guid>https://vllorens.github.io/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Awards and Funding</title>
-      <link>/home/awards/</link>
+      <title>Awards</title>
+      <link>https://vllorens.github.io/home/awards/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/awards/</guid>
+      <guid>https://vllorens.github.io/home/awards/</guid>
       <description>2018: Best Poster Award at the EMBO | EMBL Human Microbiome Conference. Poster title: A Mapping-based Human Metatranscriptomics Analysis Pipeline. Prize awarded by Molecular Systems Biology
  2018: Young Investigator Award from the Catalan Society of Biology (Premi al jove Investigador de la Societat Catalana de Biologia). Link to the press release.
- 2017: FWO Postdoctoral Fellowship. 3 years postdoctoral fellowship.
  2017: PhD extraordinary Award, Universitat Pompeu Fabra. Thesis title: &amp;ldquo;Integrative understanding of transcription in a minimal cell model&amp;rdquo;.</description>
     </item>
     
     <item>
-      <title>Recent Posts</title>
-      <link>/home/posts/</link>
+      <title>Funding</title>
+      <link>https://vllorens.github.io/home/funding/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/posts/</guid>
-      <description></description>
+      <guid>https://vllorens.github.io/home/funding/</guid>
+      <description> 2020: FWO Senior postdoctoral Fellowship. 3 years postdoctoral fellowship that includes a 29.800€ bench fee for research project expenses.
+ 2020: VIB Tech Watch funding for Technology Development: 25.000€
+ 2017: FWO Postdoctoral Fellowship. 3 years postdoctoral fellowship.
+ 2016: International Organization of Mycoplasmology Conference in Brisbane, Australia. Travel Award.
+ 2011: La Caixa postgraduate (MSc in Spain) fellowship.
+ 2010: JAE Intro scholarship.
+  </description>
     </item>
     
     <item>
-      <title>Tags</title>
-      <link>/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0100</pubDate>
+      <title>Outreach</title>
+      <link>https://vllorens.github.io/home/outreach/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/tags/</guid>
-      <description></description>
+      <guid>https://vllorens.github.io/home/outreach/</guid>
+      <description>2020: &amp;ldquo;11 de Febrero&amp;rdquo;. Spanish iniciative to promote scientific interests in girls during the International day of Women and Girls in Science. I participated with scheduled talks in two schools:
+ Colegio la Purísima, Torrent (Valencia) IES Balears (Valencia)  2019: Outreach article: &amp;ldquo;Siguiendo la pista a humanos y microbios&amp;rdquo;, published in the magazine &amp;ldquo;Investigación y Ciencia&amp;rdquo;. This article is a translation of our contribution in Nature: Tracking humans and microbes</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://vllorens.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://vllorens.github.io/home/teaching/</guid>
+      <description>2021 (Scheduled): Microbiome Data Analysis Workshop. Location: UHasselt, Hasselt, Belgium. I will participate with tutorials and hands-on courses on data preprocessing and normalization.
+ 2019: Whole Cell Modeling Summer School. Location: CRG, Barcelona, Spain. I gave a hands-on workshop on ODE modeling of metabolic pathways.
+ 2017: Whole Cell Modeling Course. Location: CRG, Barcelona, Spain. I gave a hands-on workshop on ODE modeling of metabolic pathways.
+ 2016: Whole Cell Modeling Course.</description>
+    </item>
+    
+    <item>
+      <title>Conferences and courses attended</title>
+      <link>https://vllorens.github.io/home/conferences/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://vllorens.github.io/home/conferences/</guid>
+      <description>2019: Exploring Human Host-Microbiome Interactions in Health and Disease. Cambridge, UK. Oral presentation: Quantitative microbiome profiling links gut microbial load to host inflammatory conditions.
+ 2018: EMBO|EMBL Symposium: The Human Microbiome. Heidelberg, Germany. Poster presentation: A Mapping-based Human Metatranscriptomics Analysis Pipeline.
+ 2016: ICSB – International Conference on Systems Biology. Barcelona, Spain.
+ 2016: IOM – Conference of the International Organization of Mycoplasmology. Brisbane, Australia. Poster presentation: Antisense RNAs in Mycoplasma pneumoniae are mainly the product of transcriptional noise</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/home/contact/</link>
+      <link>https://vllorens.github.io/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/contact/</guid>
+      <guid>https://vllorens.github.io/home/contact/</guid>
       <description></description>
     </item>
     

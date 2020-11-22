@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Verónica Lloréns Rico on Verónica Lloréns Rico</title>
-    <link>/</link>
+    <link>https://vllorens.github.io/</link>
     <description>Recent content in Verónica Lloréns Rico on Verónica Lloréns Rico</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,198 +12,120 @@
     
     <item>
       <title>Determination of the Gene Regulatory Network of a Genome-Reduced Bacterium Highlights Alternative Regulation Independent of Transcription Factors</title>
-      <link>/publication/regumyco/</link>
+      <link>https://vllorens.github.io/publication/regumyco/</link>
       <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/regumyco/</guid>
+      <guid>https://vllorens.github.io/publication/regumyco/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Tracking humans and microbes</title>
-      <link>/publication/naturenv/</link>
+      <link>https://vllorens.github.io/publication/naturenv/</link>
       <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/naturenv/</guid>
+      <guid>https://vllorens.github.io/publication/naturenv/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Integrated culturing, modeling and transcriptomics uncovers complex interactions and emergent behavior in a three-species synthetic gut community</title>
-      <link>/publication/syntheticcommunity/</link>
+      <link>https://vllorens.github.io/publication/syntheticcommunity/</link>
       <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/syntheticcommunity/</guid>
+      <guid>https://vllorens.github.io/publication/syntheticcommunity/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Creating a personal website with R-Blogdown</title>
-      <link>/post_temporal/creating-a-personal-website-with-r-blogdown/</link>
-      <pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post_temporal/creating-a-personal-website-with-r-blogdown/</guid>
-      <description>&lt;p&gt;This blog post contains a tutorial to create a personal website using HUGO (a static website generator), RStudio and the R Blogdown package. This is the tutorial followed in the R-Ladies Leuven May Meetup.&lt;/p&gt;
-&lt;p&gt;This tutorial is accompanied by an introductory presentation, available here (link not yet available).&lt;/p&gt;
-&lt;p&gt;In this example, we will work with the &lt;strong&gt;“Academic”&lt;/strong&gt; template, but many others are available. You can check them all and choose your favorite from &lt;a href=&#34;https://themes.gohugo.io/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-&lt;div id=&#34;prerequisites&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Prerequisites&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;R (preferrably &amp;gt;3.2.2, this tutorial was tested in v3.4.2)&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Rstudio (this tutorial was tested in v1.0.153)&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;R Blogdown package&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# Install Blogdown package
-install.packages(&amp;quot;blogdown&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
-&lt;ul&gt;
-&lt;li&gt;HUGO: can be installed from within the Blogdown package, which makes our lives easier&lt;/li&gt;
-&lt;/ul&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# Install HUGO
-blogdown::install_hugo()&lt;/code&gt;&lt;/pre&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Git and Github. To create a GitHub free account visit &lt;a href=&#34;https://github.com/&#34; class=&#34;uri&#34;&gt;https://github.com/&lt;/a&gt; and to download Git visit &lt;a href=&#34;https://git-scm.com/&#34; class=&#34;uri&#34;&gt;https://git-scm.com/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Very little (R-)Markdown knowledge. But you can always check the cheatsheet &lt;a href=&#34;https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf&#34;&gt;here&lt;/a&gt;. What you’ll need today is summarized in section &lt;strong&gt;3. Markdown&lt;/strong&gt; and maybe also &lt;strong&gt;5. Embed code&lt;/strong&gt; if you wish to add some R code to your blog posts.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div id=&#34;disclaimer&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;Disclaimer&lt;/h3&gt;
-&lt;p&gt;This tutorial shows the path I used to create my own personal website using Blogdown. I based the tutorial on my own experience and in the problems I found on my way. Also, I made some choices that were convenient for me, such as hosting the website on Github. Other posibilities (Netlify) exist, but are not covered in this tutorial, and guides for this can be found elsewere (TODO: provide links?)&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div id=&#34;lets-get-started&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Lets get started!&lt;/h2&gt;
-&lt;p&gt;First step is to create a new R project to generate the website. Depending on your RStudio version you can create an “empty” project, or a website. Let’s use the first approach which is compatible with older RStudio versions.&lt;/p&gt;
-&lt;p&gt;Why do we want an R-project? Because it provides very useful features. Some examples:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;The &lt;strong&gt;Addins&lt;/strong&gt; tab on top. Click on it and you get a lot of functionalities that are specific for websites. For example, &lt;em&gt;“New post”&lt;/em&gt; creates and formats the files required to add a new post to the blog. &lt;em&gt;“Serve site”&lt;/em&gt; calls Hugo internally so that the website is generated. Once we click on “Serve site”, every time we save any file within the website project, the website is generated again on-the-go! Fantastic, isn’t it? In the lower-right pane &lt;strong&gt;Viewer&lt;/strong&gt; you can explore how your website looks like.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;It organizes the complete file structure for your website, so that you don’t have to worry about its architecture. With a few clicks you can have your website painlessly!&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;To create a new R Project go to &lt;code&gt;File &amp;gt; New Project&lt;/code&gt;. Select to create your project in a &lt;strong&gt;New directory&lt;/strong&gt; and then as an &lt;strong&gt;Empty project&lt;/strong&gt;. Now you have to specify the directory name (which is the name of your project). You can use something as “test_website”. You also need to specify where the project directory will be stored (I chose “~/Documents/”).&lt;/p&gt;
-&lt;p&gt;Then, download the Hugo Academic template and generate your website. This template is a good choice for people in academia, as this website can be used to present your CV with your experience, degrees and, most importantly, publications. You can also add blog entries, such as this one. After this tutorial, you can try other Hugo templates and choose the one that best fits your needs.&lt;/p&gt;
-&lt;p&gt;All this can be done just by typing the following command in the Console of your newly created project:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# Generate a new website
-blogdown::new_site(theme = &amp;quot;gcushen/hugo-academic&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;div id=&#34;congratulations-you-have-created-a-website.&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Congratulations! You have created a website.&lt;/h2&gt;
-&lt;p&gt;You have installed Blogdown, Hugo, and have created an R-project for a website with the Academic template. All this with only some mouse clicks and 3 lines of code in the Console.&lt;/p&gt;
-&lt;p&gt;First, you will realize that in RStudio, in the right pane Viewer, you can now see the website you just generated. This is the default template, we will work on modifying the different parts throughout this tutorial.&lt;/p&gt;
-&lt;p&gt;Take some time to check what has happened in the directory you created for this project. Several files and sub-directories have appeared.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/files/images/files_website.png&#34; /&gt;&lt;!-- --&gt;&lt;/p&gt;
-&lt;p&gt;Here I will explain some of the more relevant for the rest of this tutorial:&lt;/p&gt;
-&lt;div id=&#34;content&#34; class=&#34;section level4&#34;&gt;
-&lt;h4&gt;Content&lt;/h4&gt;
-&lt;p&gt;The true content of your website lies here. Within this directory, there are specific sub-folders for the different sections of your website. For instance, when you create a new blog post later in this tutorial, it will be stored in the &lt;code&gt;post&lt;/code&gt; subdirectory.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;public&#34; class=&#34;section level4&#34;&gt;
-&lt;h4&gt;Public&lt;/h4&gt;
-&lt;p&gt;This folder contains the rendered contents of your website in html. You don’t need to modify the contents of this folder, they will be automatically generated by Hugo and Blogdown. Later in this tutorial, we’ll show how to deploy the website using GitHub. To do so, we will need to make a GitHub repository for this directory. But just not yet.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;static&#34; class=&#34;section level4&#34;&gt;
-&lt;h4&gt;Static&lt;/h4&gt;
-&lt;p&gt;This folder contains some static files, such as pictures, that are used in your website. It is convenient to place them here and then reference them from your posts.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;themes&#34; class=&#34;section level4&#34;&gt;
-&lt;h4&gt;Themes&lt;/h4&gt;
-&lt;p&gt;Contains the defaults for the theme of your website, in this case Academic. It also contains all the data from the example website that you just generated&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div id=&#34;your-website-needs-metadata&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Your website needs metadata!&lt;/h2&gt;
-&lt;p&gt;You can go to &lt;code&gt;Addins &amp;gt; Serve site&lt;/code&gt; and visualize the website you just created. The website that has been generated is just the template for the Academic theme. So now it’s time to personalize it!&lt;/p&gt;
-&lt;p&gt;In the Files pane on your right,&lt;/p&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Alternative transcriptional regulation in genome-reduced bacteria</title>
-      <link>/publication/review/</link>
+      <link>https://vllorens.github.io/publication/review/</link>
       <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/review/</guid>
+      <guid>https://vllorens.github.io/publication/review/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Insights into the mechanisms of basal coordination of transcription using a genome-reduced bacterium</title>
-      <link>/publication/readthrough/</link>
+      <link>https://vllorens.github.io/publication/readthrough/</link>
       <pubDate>Wed, 22 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/readthrough/</guid>
+      <guid>https://vllorens.github.io/publication/readthrough/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The yin–yang of kinase activation and unfolding explains the peculiarity of Val600 in the activation segment of BRAF</title>
-      <link>/publication/yinyang/</link>
+      <link>https://vllorens.github.io/publication/yinyang/</link>
       <pubDate>Wed, 16 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/yinyang/</guid>
+      <guid>https://vllorens.github.io/publication/yinyang/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Bacterial antisense RNAs are mainly the product of transcriptional noise</title>
-      <link>/publication/noncodings/</link>
+      <link>https://vllorens.github.io/publication/noncodings/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/noncodings/</guid>
+      <guid>https://vllorens.github.io/publication/noncodings/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Comparative “-omics” in Mycoplasma pneumoniae clinical isolates reveals key virulence factors</title>
-      <link>/publication/strains/</link>
+      <link>https://vllorens.github.io/publication/strains/</link>
       <pubDate>Thu, 03 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publication/strains/</guid>
+      <guid>https://vllorens.github.io/publication/strains/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Distinguishing between productive and abortive promoters using a random forest classifier in Mycoplasma pneumoniae</title>
-      <link>/publication/promoters/</link>
+      <link>https://vllorens.github.io/publication/promoters/</link>
       <pubDate>Mon, 16 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publication/promoters/</guid>
+      <guid>https://vllorens.github.io/publication/promoters/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Defining a minimal cell: essentiality of small ORFs and ncRNAs in a genome‐reduced bacterium</title>
-      <link>/publication/transposons/</link>
+      <link>https://vllorens.github.io/publication/transposons/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publication/transposons/</guid>
+      <guid>https://vllorens.github.io/publication/transposons/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Assessing the hodgepodge of non-mapped reads in bacterial transcriptomics. Real or artifactua RNA chimeras?</title>
-      <link>/publication/chimeras/</link>
+      <link>https://vllorens.github.io/publication/chimeras/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>/publication/chimeras/</guid>
+      <guid>https://vllorens.github.io/publication/chimeras/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Comprehensive methylome characterization of Mycoplasma genitalium and Mycoplasma pneumoniae at single-base resolution</title>
-      <link>/publication/methylome/</link>
+      <link>https://vllorens.github.io/publication/methylome/</link>
       <pubDate>Thu, 03 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>/publication/methylome/</guid>
+      <guid>https://vllorens.github.io/publication/methylome/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>

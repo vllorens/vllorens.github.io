@@ -2,121 +2,121 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Verónica Lloréns Rico</title>
-    <link>/publication/</link>
+    <link>https://vllorens.github.io/publication/</link>
     <description>Recent content in Publications on Verónica Lloréns Rico</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vllorens.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Determination of the Gene Regulatory Network of a Genome-Reduced Bacterium Highlights Alternative Regulation Independent of Transcription Factors</title>
-      <link>/publication/regumyco/</link>
+      <link>https://vllorens.github.io/publication/regumyco/</link>
       <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/regumyco/</guid>
+      <guid>https://vllorens.github.io/publication/regumyco/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
       <title>Tracking humans and microbes</title>
-      <link>/publication/naturenv/</link>
+      <link>https://vllorens.github.io/publication/naturenv/</link>
       <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/naturenv/</guid>
+      <guid>https://vllorens.github.io/publication/naturenv/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
       <title>Integrated culturing, modeling and transcriptomics uncovers complex interactions and emergent behavior in a three-species synthetic gut community</title>
-      <link>/publication/syntheticcommunity/</link>
+      <link>https://vllorens.github.io/publication/syntheticcommunity/</link>
       <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/syntheticcommunity/</guid>
+      <guid>https://vllorens.github.io/publication/syntheticcommunity/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
       <title>Alternative transcriptional regulation in genome-reduced bacteria</title>
-      <link>/publication/review/</link>
+      <link>https://vllorens.github.io/publication/review/</link>
       <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/review/</guid>
+      <guid>https://vllorens.github.io/publication/review/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
       <title>Insights into the mechanisms of basal coordination of transcription using a genome-reduced bacterium</title>
-      <link>/publication/readthrough/</link>
+      <link>https://vllorens.github.io/publication/readthrough/</link>
       <pubDate>Wed, 22 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/readthrough/</guid>
+      <guid>https://vllorens.github.io/publication/readthrough/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
       <title>The yin–yang of kinase activation and unfolding explains the peculiarity of Val600 in the activation segment of BRAF</title>
-      <link>/publication/yinyang/</link>
+      <link>https://vllorens.github.io/publication/yinyang/</link>
       <pubDate>Wed, 16 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/yinyang/</guid>
+      <guid>https://vllorens.github.io/publication/yinyang/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
       <title>Bacterial antisense RNAs are mainly the product of transcriptional noise</title>
-      <link>/publication/noncodings/</link>
+      <link>https://vllorens.github.io/publication/noncodings/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/noncodings/</guid>
+      <guid>https://vllorens.github.io/publication/noncodings/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
       <title>Comparative “-omics” in Mycoplasma pneumoniae clinical isolates reveals key virulence factors</title>
-      <link>/publication/strains/</link>
+      <link>https://vllorens.github.io/publication/strains/</link>
       <pubDate>Thu, 03 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publication/strains/</guid>
+      <guid>https://vllorens.github.io/publication/strains/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
       <title>Distinguishing between productive and abortive promoters using a random forest classifier in Mycoplasma pneumoniae</title>
-      <link>/publication/promoters/</link>
+      <link>https://vllorens.github.io/publication/promoters/</link>
       <pubDate>Mon, 16 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publication/promoters/</guid>
+      <guid>https://vllorens.github.io/publication/promoters/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
       <title>Defining a minimal cell: essentiality of small ORFs and ncRNAs in a genome‐reduced bacterium</title>
-      <link>/publication/transposons/</link>
+      <link>https://vllorens.github.io/publication/transposons/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publication/transposons/</guid>
+      <guid>https://vllorens.github.io/publication/transposons/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
       <title>Assessing the hodgepodge of non-mapped reads in bacterial transcriptomics. Real or artifactua RNA chimeras?</title>
-      <link>/publication/chimeras/</link>
+      <link>https://vllorens.github.io/publication/chimeras/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>/publication/chimeras/</guid>
+      <guid>https://vllorens.github.io/publication/chimeras/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
       <title>Comprehensive methylome characterization of Mycoplasma genitalium and Mycoplasma pneumoniae at single-base resolution</title>
-      <link>/publication/methylome/</link>
+      <link>https://vllorens.github.io/publication/methylome/</link>
       <pubDate>Thu, 03 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>/publication/methylome/</guid>
+      <guid>https://vllorens.github.io/publication/methylome/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     

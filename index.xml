@@ -11,6 +11,16 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Mechanical ventilation affects respiratory microbiome of COVID-19 patients and its interactions with the host</title>
+      <link>https://vllorens.github.io/publication/covid19/</link>
+      <pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vllorens.github.io/publication/covid19/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Determination of the Gene Regulatory Network of a Genome-Reduced Bacterium Highlights Alternative Regulation Independent of Transcription Factors</title>
       <link>https://vllorens.github.io/publication/regumyco/</link>
       <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>

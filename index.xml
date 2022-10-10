@@ -11,9 +11,19 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Single-cell approaches in human microbiome research</title>
+      <link>https://vllorens.github.io/publication/cellrev/</link>
+      <pubDate>Thu, 21 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vllorens.github.io/publication/cellrev/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Clinical practices underlie COVID-19 patient respiratory microbiome composition and its interactions with the host</title>
       <link>https://vllorens.github.io/publication/covid19/</link>
-      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://vllorens.github.io/publication/covid19/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
@@ -146,16 +156,6 @@
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
       
       <guid>https://vllorens.github.io/publication/chimeras/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Comprehensive methylome characterization of Mycoplasma genitalium and Mycoplasma pneumoniae at single-base resolution</title>
-      <link>https://vllorens.github.io/publication/methylome/</link>
-      <pubDate>Thu, 03 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://vllorens.github.io/publication/methylome/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>

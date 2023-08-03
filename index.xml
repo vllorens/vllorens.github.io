@@ -1,132 +1,170 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Verónica Lloréns Rico on Verónica Lloréns Rico</title>
+    <title>Verónica Lloréns-Rico</title>
     <link>https://vllorens.github.io/</link>
-    <description>Recent content in Verónica Lloréns Rico on Verónica Lloréns Rico</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2022</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+      <atom:link href="https://vllorens.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Verónica Lloréns-Rico</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vllorens.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Verónica Lloréns-Rico</title>
+      <link>https://vllorens.github.io/</link>
+    </image>
     
     <item>
       <title>Single-cell approaches in human microbiome research</title>
-      <link>https://vllorens.github.io/publication/cellrev/</link>
+      <link>https://vllorens.github.io/publication/singlecell/</link>
       <pubDate>Thu, 21 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://vllorens.github.io/publication/cellrev/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+      <guid>https://vllorens.github.io/publication/singlecell/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Clinical practices underlie COVID-19 patient respiratory microbiome composition and its interactions with the host</title>
-      <link>https://vllorens.github.io/publication/covid19/</link>
+      <link>https://vllorens.github.io/publication/covid/</link>
       <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://vllorens.github.io/publication/covid19/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+      <guid>https://vllorens.github.io/publication/covid/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Benchmarking microbiome transformations favors experimental quantitative approaches to address compositionality and sampling depth biases</title>
-      <link>https://vllorens.github.io/publication/simulations/</link>
+      <link>https://vllorens.github.io/publication/benchmark/</link>
       <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://vllorens.github.io/publication/simulations/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+      <guid>https://vllorens.github.io/publication/benchmark/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
     <item>
-      <title>Endogenous IFNβ expression predicts outcome in critical patients with COVID-19</title>
-      <link>https://vllorens.github.io/publication/interferon/</link>
+      <title>Endogenous IFNB expression predicts outcome in critical patients with COVID-19</title>
+      <link>https://vllorens.github.io/publication/lancetm/</link>
       <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://vllorens.github.io/publication/interferon/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+      <guid>https://vllorens.github.io/publication/lancetm/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
     <item>
-      <title>Determination of the Gene Regulatory Network of a Genome-Reduced Bacterium Highlights Alternative Regulation Independent of Transcription Factors</title>
+      <title>Determination of the gene regulatory network of a genome-reduced bacterium highlights alternative regulation independent of transcription factors</title>
       <link>https://vllorens.github.io/publication/regumyco/</link>
-      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
-      
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://vllorens.github.io/publication/regumyco/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Tracking humans and microbes</title>
-      <link>https://vllorens.github.io/publication/naturenv/</link>
-      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://vllorens.github.io/publication/naturenv/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+      <link>https://vllorens.github.io/publication/tracking/</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://vllorens.github.io/publication/tracking/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Integrated culturing, modeling and transcriptomics uncovers complex interactions and emergent behavior in a three-species synthetic gut community</title>
-      <link>https://vllorens.github.io/publication/syntheticcommunity/</link>
-      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://vllorens.github.io/publication/syntheticcommunity/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+      <link>https://vllorens.github.io/publication/emergent/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://vllorens.github.io/publication/emergent/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Alternative transcriptional regulation in genome-reduced bacteria</title>
-      <link>https://vllorens.github.io/publication/review/</link>
-      <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://vllorens.github.io/publication/review/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+      <link>https://vllorens.github.io/publication/alternative/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://vllorens.github.io/publication/alternative/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Insights into the mechanisms of basal coordination of transcription using a genome-reduced bacterium</title>
-      <link>https://vllorens.github.io/publication/readthrough/</link>
+      <link>https://vllorens.github.io/publication/junier/</link>
       <pubDate>Wed, 22 Jun 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://vllorens.github.io/publication/readthrough/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+      <guid>https://vllorens.github.io/publication/junier/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bacterial antisense RNAs are mainly the product of transcriptional noise</title>
+      <link>https://vllorens.github.io/publication/antisense/</link>
+      <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://vllorens.github.io/publication/antisense/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>The yin–yang of kinase activation and unfolding explains the peculiarity of Val600 in the activation segment of BRAF</title>
       <link>https://vllorens.github.io/publication/yinyang/</link>
-      <pubDate>Wed, 16 Mar 2016 00:00:00 +0000</pubDate>
-      
+      <pubDate>Fri, 08 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://vllorens.github.io/publication/yinyang/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bacterial antisense RNAs are mainly the product of transcriptional noise</title>
-      <link>https://vllorens.github.io/publication/noncodings/</link>
-      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://vllorens.github.io/publication/noncodings/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Comparative “-omics” in Mycoplasma pneumoniae clinical isolates reveals key virulence factors</title>
-      <link>https://vllorens.github.io/publication/strains/</link>
+      <link>https://vllorens.github.io/publication/virulence/</link>
       <pubDate>Thu, 03 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://vllorens.github.io/publication/strains/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+      <guid>https://vllorens.github.io/publication/virulence/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -134,30 +172,60 @@
       <title>Distinguishing between productive and abortive promoters using a random forest classifier in Mycoplasma pneumoniae</title>
       <link>https://vllorens.github.io/publication/promoters/</link>
       <pubDate>Mon, 16 Mar 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://vllorens.github.io/publication/promoters/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
     <item>
-      <title>Defining a minimal cell: essentiality of small ORFs and ncRNAs in a genome‐reduced bacterium</title>
-      <link>https://vllorens.github.io/publication/transposons/</link>
+      <title>Defining a minimal cell: essentiality of small ORF s and nc RNA s in a genome‐reduced bacterium</title>
+      <link>https://vllorens.github.io/publication/essentiality/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://vllorens.github.io/publication/transposons/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+      <guid>https://vllorens.github.io/publication/essentiality/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
     <item>
-      <title>Assessing the hodgepodge of non-mapped reads in bacterial transcriptomics. Real or artifactua RNA chimeras?</title>
-      <link>https://vllorens.github.io/publication/chimeras/</link>
-      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://vllorens.github.io/publication/chimeras/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+      <title>Assessing the hodgepodge of non-mapped reads in bacterial transcriptomes: real or artifactual RNA chimeras?</title>
+      <link>https://vllorens.github.io/publication/hodgepodge/</link>
+      <pubDate>Tue, 29 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://vllorens.github.io/publication/hodgepodge/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Comprehensive Methylome Characterization of Mycoplasma genitalium and Mycoplasma pneumoniae at Single-Base Resolution</title>
+      <link>https://vllorens.github.io/publication/methylome/</link>
+      <pubDate>Thu, 03 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://vllorens.github.io/publication/methylome/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vllorens.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vllorens.github.io/admin/config.yml</guid>
+      <description></description>
     </item>
     
   </channel>

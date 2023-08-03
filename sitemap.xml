@@ -1,234 +1,125 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-    
-    
-    <url>
-    
-      <loc>https://vllorens.github.io/publication/cellrev/</loc>
-      <lastmod>2022-07-21T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://vllorens.github.io/publication/covid19/</loc>
-      <lastmod>2021-10-29T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://vllorens.github.io/publication/simulations/</loc>
-      <lastmod>2021-06-11T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://vllorens.github.io/publication/interferon/</loc>
-      <lastmod>2021-03-30T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://vllorens.github.io/publication/regumyco/</loc>
-      <lastmod>2019-08-20T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://vllorens.github.io/publication/naturenv/</loc>
-      <lastmod>2019-05-29T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://vllorens.github.io/publication/syntheticcommunity/</loc>
-      <lastmod>2018-10-16T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://vllorens.github.io/publication/review/</loc>
-      <lastmod>2017-10-31T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://vllorens.github.io/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://vllorens.github.io/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://vllorens.github.io/post_temporal/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://vllorens.github.io/publication/readthrough/</loc>
-      <lastmod>2016-06-22T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://vllorens.github.io/publication/yinyang/</loc>
-      <lastmod>2016-03-16T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://vllorens.github.io/publication/noncodings/</loc>
-      <lastmod>2016-03-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://vllorens.github.io/publication/strains/</loc>
-      <lastmod>2015-09-03T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://vllorens.github.io/publication/promoters/</loc>
-      <lastmod>2015-03-16T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://vllorens.github.io/publication/transposons/</loc>
-      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://vllorens.github.io/publication/chimeras/</loc>
-      <lastmod>2014-12-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://vllorens.github.io/publication/methylome/</loc>
-      <lastmod>2013-01-03T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://vllorens.github.io/publication_types/0/</loc>
-      <lastmod>2019-05-29T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://vllorens.github.io/publication_types/2/</loc>
-      <lastmod>2022-07-21T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://vllorens.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://vllorens.github.io/publication_types/</loc>
-      <lastmod>2019-05-29T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://vllorens.github.io/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://vllorens.github.io/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://vllorens.github.io/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://vllorens.github.io/publication-type/2/</loc>
+    <lastmod>2022-07-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://vllorens.github.io/tag/human-microbiome/</loc>
+    <lastmod>2022-07-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://vllorens.github.io/publication_types/</loc>
+    <lastmod>2022-07-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://vllorens.github.io/publication/</loc>
+    <lastmod>2022-07-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://vllorens.github.io/publication/singlecell/</loc>
+    <lastmod>2022-07-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://vllorens.github.io/tag/single-cell-rna-seq/</loc>
+    <lastmod>2022-07-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://vllorens.github.io/tags/</loc>
+    <lastmod>2022-07-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://vllorens.github.io/publication/covid/</loc>
+    <lastmod>2021-10-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://vllorens.github.io/tag/covid-19/</loc>
+    <lastmod>2021-10-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://vllorens.github.io/publication/benchmark/</loc>
+    <lastmod>2021-06-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://vllorens.github.io/tag/bioinformatics/</loc>
+    <lastmod>2021-06-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://vllorens.github.io/publication/lancetm/</loc>
+    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://vllorens.github.io/publication/regumyco/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://vllorens.github.io/tag/gene-regulation/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://vllorens.github.io/tag/mycoplasma-pneumoniae/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://vllorens.github.io/publication/tracking/</loc>
+    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://vllorens.github.io/publication/emergent/</loc>
+    <lastmod>2018-10-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://vllorens.github.io/publication/alternative/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://vllorens.github.io/publication/junier/</loc>
+    <lastmod>2016-06-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://vllorens.github.io/publication/antisense/</loc>
+    <lastmod>2016-03-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://vllorens.github.io/publication/yinyang/</loc>
+    <lastmod>2016-01-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://vllorens.github.io/publication/virulence/</loc>
+    <lastmod>2015-09-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://vllorens.github.io/publication/promoters/</loc>
+    <lastmod>2015-03-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://vllorens.github.io/publication/essentiality/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://vllorens.github.io/publication/hodgepodge/</loc>
+    <lastmod>2014-07-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://vllorens.github.io/publication/methylome/</loc>
+    <lastmod>2013-01-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://vllorens.github.io/admin/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://vllorens.github.io/categories/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://vllorens.github.io/post/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://vllorens.github.io/event/</loc>
+    <changefreq>weekly</changefreq>
+  </url>
 </urlset>

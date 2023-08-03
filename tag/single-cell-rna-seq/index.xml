@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Single-cell RNA-seq | Verónica Lloréns-Rico</title>
+    <link>https://vllorens.github.io/tag/single-cell-rna-seq/</link>
+      <atom:link href="https://vllorens.github.io/tag/single-cell-rna-seq/index.xml" rel="self" type="application/rss+xml" />
+    <description>Single-cell RNA-seq</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vllorens.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Single-cell RNA-seq</title>
+      <link>https://vllorens.github.io/tag/single-cell-rna-seq/</link>
+    </image>
+    
+    <item>
+      <title>Single-cell approaches in human microbiome research</title>
+      <link>https://vllorens.github.io/publication/singlecell/</link>
+      <pubDate>Thu, 21 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://vllorens.github.io/publication/singlecell/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Clinical practices underlie COVID-19 patient respiratory microbiome composition and its interactions with the host</title>
+      <link>https://vllorens.github.io/publication/covid/</link>
+      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://vllorens.github.io/publication/covid/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

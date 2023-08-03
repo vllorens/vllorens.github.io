@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Verónica Lloréns Rico</title>
+    <title>Posts | Verónica Lloréns-Rico</title>
     <link>https://vllorens.github.io/post/</link>
-    <description>Recent content in Posts on Verónica Lloréns Rico</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="https://vllorens.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://vllorens.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://vllorens.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Posts</title>
+      <link>https://vllorens.github.io/post/</link>
+    </image>
     
   </channel>
 </rss>

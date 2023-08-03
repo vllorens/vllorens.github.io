@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bioinformatics | Verónica Lloréns-Rico</title>
+    <link>https://vllorens.github.io/tag/bioinformatics/</link>
+      <atom:link href="https://vllorens.github.io/tag/bioinformatics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bioinformatics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vllorens.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Bioinformatics</title>
+      <link>https://vllorens.github.io/tag/bioinformatics/</link>
+    </image>
+    
+    <item>
+      <title>Benchmarking microbiome transformations favors experimental quantitative approaches to address compositionality and sampling depth biases</title>
+      <link>https://vllorens.github.io/publication/benchmark/</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://vllorens.github.io/publication/benchmark/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Distinguishing between productive and abortive promoters using a random forest classifier in Mycoplasma pneumoniae</title>
+      <link>https://vllorens.github.io/publication/promoters/</link>
+      <pubDate>Mon, 16 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://vllorens.github.io/publication/promoters/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Assessing the hodgepodge of non-mapped reads in bacterial transcriptomes: real or artifactual RNA chimeras?</title>
+      <link>https://vllorens.github.io/publication/hodgepodge/</link>
+      <pubDate>Tue, 29 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://vllorens.github.io/publication/hodgepodge/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
